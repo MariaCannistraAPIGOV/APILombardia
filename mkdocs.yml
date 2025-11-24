@@ -1,0 +1,3 @@
+site_name: Documentazione
+nav:
+  - Home: docs/#LoremIpsum.md
