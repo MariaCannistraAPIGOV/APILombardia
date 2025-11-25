@@ -7,4 +7,3 @@ build:
 
 mkdocs:
   configuration: mkdocs.yml
-  branch: main
