@@ -5,8 +5,10 @@ python:
   install:
     - requirements: requirements.txt
 
-mkdocs:
-  configuration: mkdocs.yml
-
 build:
   os: ubuntu-22.04
+  tools:
+    mkdocs: {}   # <-- qui MkDocs viene registrato correttamente come tool
+
+mkdocs:
+  configuration: mkdocs.yml
