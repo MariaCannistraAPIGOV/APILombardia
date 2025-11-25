@@ -1,4 +1,4 @@
 site_name: Documentazione
 nav:
-  - Home: docs/index.md
-  - Lorem: docs/lorem2.md
+  - Home: index.md
+  - Lorem: lorem2.md
