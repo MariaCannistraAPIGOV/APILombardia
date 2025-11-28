@@ -2,8 +2,10 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus leo non enim accumsan consectetur. Sed porta, velit vitae volutpat congue, nulla libero bibendum sapien, quis euismod mi lorem sit amet libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam eget maximus nibh. Etiam et metus a diam bibendum pulvinar et vitae ipsum. Aliquam erat volutpat. Pellentesque *pellentesque* aliquet nisl, in suscipit mi aliquam a. Donec in luctus nisi, sed facilisis lorem. Maecenas tristique interdum lacus eu porttitor. Nunc hendrerit varius commodo. Aenean leo leo, mollis in mattis at, imperdiet sit amet metus. Phasellus ac diam mollis tellus vestibulum ultrices.
 
-![Immagine Login](Login.png)
-*Figura 1 Login*
+<figure>
+<img src="Login.png" alt="Schema del sistema">
+<figcaption><em>Figura 1 – Schema del sistema.</em></figcaption>
+</figure>
 
 Pellentesque venenatis dictum vehicula. Sed vel metus aliquam, tempor massa et, sollicitudin risus. Curabitur dictum, purus vel mollis porttitor, ligula eros pretium tellus, et egestas nulla dolor quis urna. Integer in mauris quis magna mollis tristique at vel nulla. Nulla blandit a nunc sit amet sollicitudin. Suspendisse volutpat scelerisque neque, sit amet tristique augue auctor eget. Nullam scelerisque ac odio quis sodales.
 
@@ -57,6 +59,7 @@ Suspendisse hendrerit et quam et ultricies. Suspendisse id mollis lectus. Aenean
 
 
 Pellentesque commodo arcu eget libero lacinia, vel sollicitudin tellus gravida. Praesent diam lectus, facilisis id sapien vel, vehicula feugiat ligula. In mauris lacus.
+
 
 
 
